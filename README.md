@@ -1,7 +1,7 @@
-- I’m interested in programming, various types of music, rythm games and yoga
-- I’m currently learning python. I will be learning c++ in a nearby future
-- I’m looking to collaborate on basic/beginner level projects in python
-- How to reach me, through discord my username is naboshi
+- I’m interested in programming, yoga, games, almost every genre of music and recently in doing tricks with yoyo.
+- I’m currently learning python - my goal is to get good at Machine Learning and Databases. I will be learning c++ and other languages in a nearby future, I'd like to grasp some knowledge in game developing area.
+- I’m looking to collaborate on basic/beginner level projects.
+- How to reach me, through discord my username is naboshi.
 
 <!---
 naboshi229/naboshi229 is a special repository because its `README.md` (this file) appears on your GitHub profile.
